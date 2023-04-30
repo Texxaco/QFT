@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "engine": "junit-jupiter"
+  },
+  "contents": [
+    {"path":"net.contexx.qft.junit.SampleTest/[engine:junit-jupiter]/[class:net.contexx.qft.junit.SampleTest]/[method:simpleTests()]/a Boolean","type":"Boolean","data":"true"},
+    {"path":"net.contexx.qft.junit.SampleTest/[engine:junit-jupiter]/[class:net.contexx.qft.junit.SampleTest]/[method:simpleTests()]/a Byte","type":"Integer","data":"256"},
+    {"path":"net.contexx.qft.junit.SampleTest/[engine:junit-jupiter]/[class:net.contexx.qft.junit.SampleTest]/[method:simpleTests()]/a Character","type":"String","data":"C"},
+    {"path":"net.contexx.qft.junit.SampleTest/[engine:junit-jupiter]/[class:net.contexx.qft.junit.SampleTest]/[method:simpleTests()]/a Double","type":"Double","data":"QGAD97Pa4gY="},
+    {"path":"net.contexx.qft.junit.SampleTest/[engine:junit-jupiter]/[class:net.contexx.qft.junit.SampleTest]/[method:simpleTests()]/a Float","type":"Float","data":"Pfy5JA=="},
+    {"path":"net.contexx.qft.junit.SampleTest/[engine:junit-jupiter]/[class:net.contexx.qft.junit.SampleTest]/[method:simpleTests()]/a Integer","type":"Integer","data":"12345"},
+    {"path":"net.contexx.qft.junit.SampleTest/[engine:junit-jupiter]/[class:net.contexx.qft.junit.SampleTest]/[method:simpleTests()]/a Long","type":"Long","data":"9223372036854775807"},
+    {"path":"net.contexx.qft.junit.SampleTest/[engine:junit-jupiter]/[class:net.contexx.qft.junit.SampleTest]/[method:simpleTests()]/a Short","type":"Integer","data":"32768"},
+    {"path":"net.contexx.qft.junit.SampleTest/[engine:junit-jupiter]/[class:net.contexx.qft.junit.SampleTest]/[method:simpleTests()]/a String","type":"String","data":"Sample Data"},
+    {"path":"net.contexx.qft.junit.SampleTest/[engine:junit-jupiter]/[class:net.contexx.qft.junit.SampleTest]/[test-template:parameterizedTests(java.lang.String)]/[test-template-invocation:#1]/isPalimdrom","type":"String","data":"racecar"},
+    {"path":"net.contexx.qft.junit.SampleTest/[engine:junit-jupiter]/[class:net.contexx.qft.junit.SampleTest]/[test-template:parameterizedTests(java.lang.String)]/[test-template-invocation:#2]/isPalimdrom","type":"String","data":"radar"},
+    {"path":"net.contexx.qft.junit.SampleTest/[engine:junit-jupiter]/[class:net.contexx.qft.junit.SampleTest]/[test-template:parameterizedTests(java.lang.String)]/[test-template-invocation:#3]/isPalimdrom","type":"String","data":"able was I ere I saw elba"},
+    {"path":"net.contexx.qft.junit.SampleTest/[engine:junit-jupiter]/[class:net.contexx.qft.junit.SampleTest]/[test-template:repeatedTests()]/[test-template-invocation:#1]/a Value","type":"String","data":"Repeaded"},
+    {"path":"net.contexx.qft.junit.SampleTest/[engine:junit-jupiter]/[class:net.contexx.qft.junit.SampleTest]/[test-template:repeatedTests()]/[test-template-invocation:#2]/a Value","type":"String","data":"Repeaded"},
+    {"path":"net.contexx.qft.junit.SampleTest/[engine:junit-jupiter]/[class:net.contexx.qft.junit.SampleTest]/[test-template:repeatedTests()]/[test-template-invocation:#3]/a Value","type":"String","data":"Repeaded"}
+  ]
+}

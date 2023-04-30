@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "engine": "junit-jupiter"
+  },
+  "contents": [
+    { "path": "foo/bar/ACC",      "type": "String", "accepted": true,"data": "x", "future": "y" },
+    { "path": "foo/bar/NACC",     "type": "String", "accepted": false,"data": "a", "future": "b" },
+    { "path": "foo/bar/NoFuture", "type": "String", "accepted": false,"data": "z"}
+  ]
+}
